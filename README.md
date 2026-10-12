@@ -85,6 +85,4 @@ pytest -v
 - Send a Slack or email notification when new high-severity findings appear
 - Dockerize the tool with all four binaries included
 
-## What I learned
 
-(Write 3-4 lines in your own words.)

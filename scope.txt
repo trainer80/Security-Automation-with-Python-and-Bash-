@@ -1,0 +1,4 @@
+# Allowed targets, one per line. Add ONLY systems you own or have written permission to test.
+# Examples (uncomment what applies to you):
+# localhost
+# yourown-domain.com
